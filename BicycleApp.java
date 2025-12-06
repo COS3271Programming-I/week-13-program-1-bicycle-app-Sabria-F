@@ -72,6 +72,11 @@ public class BicycleApp {
 
         System.out.println("\n\n");
 
+        //Tell the user the program is ending.
+        System.out.println("The program is ending...");
+
+        System.out.println("\n");
+
         //Close the scanner.
         userinput.close();
 
